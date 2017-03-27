@@ -1,7 +1,15 @@
 
-Download PubMed Central (PMC) nxml
+Last updated date: March 27, 2017 09:08 AM
+Language: Java
 
-The java code automatically download xml, it needs import below JAR files
+1. Bioconcept_RESTful.java
+The program automatically retrieve bioconcept 
+- org.json.jar
+
+detailed see: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/RESTfulAPIs.html
+
+2. Download PubMed Central (PMC) nxml
+The program automatically download xml, it needs import below JAR files
 - commons-net-3.*.jar
 
 before to execute this program, you need to create some folder as temporary folder
